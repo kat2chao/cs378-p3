@@ -1,0 +1,57 @@
+/*
+ Style your elements by creating CSS classes here.
+ Below, you can see an example of a class called "menu" that changes the color of the text to blue. Modify according to your needs.
+*/
+
+
+.menu {
+  color: blue;
+ }
+ 
+ 
+ .text-center h4{
+  font-family: 'Brush Script MT', cursive;
+  color: lightcoral;
+ }
+ 
+ 
+ .menu-card {
+  border: none;
+  box-shadow: none;
+  outline: none;
+ }
+ /* why is the menu card not working */
+ 
+ 
+ .menu-card .btn {
+  background-color: lightcoral;
+  padding: 0rem 0.5rem;
+  font-size: 0.875rem;
+  border-radius: 10px;
+  border: none;
+ }
+ 
+ 
+ .logo {
+  display: block;
+  width: 200px;
+  height: auto;
+  margin: 0 auto;
+ }
+ 
+ 
+ .order-btn{
+  background-color: lightcoral;
+  padding: 0rem 0.5rem;
+  font-size: 0.875rem;
+  border-radius: 10px;
+  border: none;
+ }
+ .clear-btn {
+  background-color: lightgrey;
+  padding: 0rem 0.5rem;
+  font-size: 0.875rem;
+  border-radius: 10px;
+  border: none;
+ }
+ 
